@@ -12,7 +12,7 @@ nodewatcher is a tool that helps develop node.js based applications by automatic
 
 
 ```bash
-npm install -g nodewatcher
+npm install -g @harikrishnan_a_k/nodewatcher
 ```
 
 And nodewatcher will be installed globally to your system path.
